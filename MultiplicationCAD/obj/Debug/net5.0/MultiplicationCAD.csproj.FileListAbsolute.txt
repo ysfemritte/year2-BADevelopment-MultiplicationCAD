@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\bin\Debug\net5.0\MultiplicationCAD.exe
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\bin\Debug\net5.0\MultiplicationCAD.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\bin\Debug\net5.0\MultiplicationCAD.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\bin\Debug\net5.0\MultiplicationCAD.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\bin\Debug\net5.0\MultiplicationCAD.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\bin\Debug\net5.0\ref\MultiplicationCAD.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\bin\Debug\net5.0\MultiplicationCAD.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\ref\MultiplicationCAD.dll
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week3\MultiplicationCAD\obj\Debug\net5.0\MultiplicationCAD.genruntimeconfig.cache
